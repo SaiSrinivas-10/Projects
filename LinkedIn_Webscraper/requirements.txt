@@ -1,2 +1,8 @@
 selenium  == 4.7.2
+matplotlib == 3.6.3
+Counter == 1.0.0
+gradio == 3.16.1
+openai  == 0.26.1
 pycopy-webbrowser == 0.0.0
+
+
