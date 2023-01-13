@@ -1,0 +1,1 @@
+It is important to wait for the page to load. Main issue that I faced was not waiting for the page to load and trying to access the class/id elements. That is the reason why, after every redirect or change of page, wait for 2-3 seconds for the page to completely load and then, once all the components of the page are loaded, you can fetch the data required.
